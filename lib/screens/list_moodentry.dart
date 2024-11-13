@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mental_health_tracker/models/mood_entry.dart';
 import 'package:mental_health_tracker/widgets/left_drawer.dart';
+import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
 
 class MoodEntryPage extends StatefulWidget {
