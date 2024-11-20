@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mental_health_tracker/widgets/left_drawer.dart';
 import 'package:mental_health_tracker/widgets/mood_card.dart';
-import 'package:mental_health_tracker/models/mood_entry.dart';
 
 class MyHomePage extends StatelessWidget {
   final String npm = '2306275960'; // NPM
